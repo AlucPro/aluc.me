@@ -17,6 +17,7 @@ nav:
   home: /
   articles: /archives/
   Garden: https://alucpro.github.io/DIGITAL_GARDEN/#/page/digital%20garden
+  Twitter: https://twitter.com/AlucPro
   Ins: https://www.instagram.com/aluc_pro/
 
 # Links to your social media accounts.
@@ -31,7 +32,8 @@ social_links:
   #   link: http://github.com/probberechts/cactus-dark
   # -
   #   icon: twitter
-  #   link: /
+  #   label: twitter
+  #   link: https://twitter.com/AlucPro
   # -
   #   icon: facebook
   #   link: /
