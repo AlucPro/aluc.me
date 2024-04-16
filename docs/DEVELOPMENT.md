@@ -7,6 +7,7 @@ To start the development of this Hexo project, you can use the following command
 - `hexo init`: Initialize a new Hexo project.
 - `hexo new`: Create a new blog post.
 - `hexo generate`: Generate the static files for your blog.
+- `hexo img`: After `hexo g` to use this cmd to optimization img size under public dir. [plugins](https://github.com/vkuznecovas/hexo-img-optimization?tab=readme-ov-file)
 - `hexo server`: Start a local server to preview your blog.
 - `hexo deploy`: Deploy your blog to a remote server.
 
