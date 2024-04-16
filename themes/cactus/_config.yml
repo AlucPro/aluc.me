@@ -17,8 +17,8 @@ nav:
   home: /
   articles: /archives/
   Garden: https://dg.aluc.me/DIGITAL_GARDEN
-  Twitter: https://twitter.com/AlucPro
-  Ins: https://www.instagram.com/aluc_pro/
+  # Twitter: https://twitter.com/AlucPro
+  # Ins: https://www.instagram.com/aluc_pro/
 
 # Links to your social media accounts.
 # The 'icon' keys should correspond to Fontawesome icon names
@@ -27,19 +27,23 @@ nav:
 # You can optionally add a 'label' key to set the title attribute on the link.
 # 'icon' value will be used as title when 'label' is missing.
 social_links:
-  # -
-  #   icon: github
-  #   link: http://github.com/probberechts/cactus-dark
-  # -
-  #   icon: twitter
-  #   label: twitter
-  #   link: https://twitter.com/AlucPro
+  -
+    icon: github
+    link: https://github.com/alucPro
+  -
+    icon: twitter
+    label: twitter
+    link: https://twitter.com/AlucPro
+  -
+    icon: instagram 
+    label: instagram 
+    link: https://www.instagram.com/aluc_pro
   # -
   #   icon: facebook
   #   link: /
-  # -
-  #   icon: mail
-  #   link: mailto:name@email.com
+  -
+    icon: mail
+    link: mailto:xmjin.micro@gmail.com
   # -
   #   icon: mastodon
   #   label: mastodon.social
