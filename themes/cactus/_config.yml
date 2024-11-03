@@ -28,23 +28,27 @@ nav:
 # You can optionally add a 'label' key to set the title attribute on the link.
 # 'icon' value will be used as title when 'label' is missing.
 social_links:
-  -
-    icon: github
-    link: https://github.com/alucPro
-  -
-    icon: twitter
-    label: twitter
-    link: https://twitter.com/AlucPro
+  # -
+  #   icon: github
+  #   link: https://github.com/alucPro
+  # -
+  #   icon: twitter
+  #   label: twitter
+  #   link: https://twitter.com/AlucPro
   -
     icon: instagram 
     label: instagram 
     link: https://www.instagram.com/aluc_pro
+  -
+    icon: red 
+    label: red
+    link: https://www.xiaohongshu.com/user/profile/5e2b945400000000010054b1?xhsshare=CopyLink&appuid=5e2b945400000000010054b1&apptime=1730598122&share_id=32be8d03d9d04023b729c66929f25497
   # -
   #   icon: facebook
   #   link: /
   -
     icon: mail
-    link: mailto:xmjin.micro@gmail.com
+    link: mailto:jinxm.alucard@gmail.com
   # -
   #   icon: mastodon
   #   label: mastodon.social
